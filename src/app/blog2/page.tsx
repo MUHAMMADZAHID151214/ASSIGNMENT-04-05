@@ -116,12 +116,12 @@ export default function Blog2() {
           </li>
           <li>
             <strong>Content-Heavy Websites</strong>: Blogs, news sites, and
-            documentation platforms benefit from Next.js's static site
+            documentation platforms benefit from Next.js static site
             generation features, allowing for quick page loads and effective
             content delivery.
           </li>
           <li>
-            <strong>Dashboards and Admin Panels</strong>: Next.js's API routes
+            <strong>Dashboards and Admin Panels</strong>: Next.js API routes
             and server-side rendering capabilities make it a great fit for
             building complex dashboards and admin interfaces that require
             real-time data updates.

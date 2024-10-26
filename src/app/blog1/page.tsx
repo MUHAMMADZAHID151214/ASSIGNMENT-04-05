@@ -56,7 +56,7 @@ export default function Blog1() {
         <li>
           <strong>Rich Ecosystem and Framework Support</strong>: TypeScript
           seamlessly integrates with popular frameworks like Angular, React,
-          and Vue.js. These frameworks leverage TypeScript's features to
+          and Vue.js. These frameworks leverage TypeScript features to
           enhance their capabilities, making it easier to build robust
           applications. Many libraries and tools now provide TypeScript
           definitions, ensuring a smooth development process.
@@ -78,7 +78,7 @@ export default function Blog1() {
       </p>
       <p>
         In large teams, where multiple developers contribute to the same
-        codebase, TypeScript's static typing serves as a form of
+        codebase, TypeScript static typing serves as a form of
         documentation. Developers can easily understand the expected data
         types and structures, reducing the learning curve for new team members
         and minimizing the chances of miscommunication.

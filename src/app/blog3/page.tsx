@@ -138,7 +138,7 @@ export default function Blog3() {
         </p>
         <p>
           Furthermore, the collaboration between AI and humans—often referred to
-          as "augmented intelligence"—will likely play a crucial role in various
+          as augmented intelligence-will likely play a crucial role in various
           industries. This approach emphasizes the complementary strengths of
           humans and machines, leading to improved decision-making and
           innovation.

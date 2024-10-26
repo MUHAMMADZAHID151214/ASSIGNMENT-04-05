@@ -18,7 +18,7 @@ export default function Blog4() {
 
         <h2>What is the Metaverse?</h2>
         <p>
-          The term "Metaverse" refers to a collective virtual shared space that
+          The term Metaverse refers to a collective virtual shared space that
           is created by the convergence of virtually enhanced physical reality
           and physically persistent virtual reality. It encompasses a wide range
           of digital environments, from virtual reality worlds to augmented
@@ -133,7 +133,7 @@ export default function Blog4() {
           immersive and interconnected virtual experiences. Companies and
           developers are investing heavily in this space, and the rise of
           virtual reality and augmented reality will likely accelerate the
-          Metaverse's growth.
+          Metaverse growth.
         </p>
         <p>
           In the coming years, we may witness the emergence of a fully realized

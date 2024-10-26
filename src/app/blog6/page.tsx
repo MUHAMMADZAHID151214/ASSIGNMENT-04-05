@@ -21,7 +21,7 @@ export default function Blog6() {
           records transactions across many computers so that the recorded
           transactions cannot be altered retroactively. Each transaction is
           grouped into a block, and once a block is filled, it is added to the
-          chain of previous blocks—hence the term "blockchain." This structure
+          chain of previous blocks—hence the term blockchain. This structure
           ensures that every participant in the network has access to the same
           data, promoting transparency and accountability.
         </p>
