@@ -1,4 +1,4 @@
-import Link from "next/link";
+
 export default function Blog5() {
   return (
     <div className="about">

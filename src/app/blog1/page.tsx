@@ -1,4 +1,3 @@
-import Link from "next/link";
 export default function Blog1() {
   return (
     <div className="about">
